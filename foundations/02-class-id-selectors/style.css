@@ -1,0 +1,17 @@
+.myclass {
+    background-color:rgba(236, 161, 220, 0.89);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.font {
+    font-size: 24px;
+}
+#myid {
+    color: blue;
+    font-size: 36px;
+
+}
+#anotherid {
+    background-color:hsl(120, 82%, 78%);
+    font-size: 24px;
+    font-weight: bold;
+}

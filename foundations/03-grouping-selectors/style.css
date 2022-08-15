@@ -1,0 +1,11 @@
+.fibut {
+    background-color: black;
+    color: white;
+}
+.secbut {
+    background-color: yellow;
+}
+.fibut, .secbut {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
